@@ -1,67 +1,59 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ANIMATED HEADER BANNER — replace YOUR_USERNAME with DeBlackCoder
-     ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED VENOM BANNER  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hillary%20Prosper%20Wahua&fontSize=40&color=0:0D1117,50:1F6FEB,100:58A6FF&fontColor=FFFFFF&stroke=58A6FF&strokeWidth=1.5&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Next.js%20Specialist%20%E2%80%A2%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC&descSize=14&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Hillary%20Prosper%20Wahua&fontSize=42&color=0:060B14,30:0D1B38,60:1F6FEB,100:58A6FF&fontColor=E6EDF3&stroke=58A6FF&strokeWidth=1&animation=fadeIn&desc=%5B%20Frontend%20Developer%20%5D%20%5B%20Next.js%20Specialist%20%5D%20%5B%20Nigeria%20%5D&descSize=13&descAlignY=76&descAlign=50" width="100%" />
 
-<!-- ═══════════════════ TYPING ANIMATION ════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  TYPING SVG  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+fast+%E2%86%92+Next.js+%2B+TypeScript+%F0%9F%9A%80;Designing+beautiful+%E2%86%92+Tailwind+CSS+%F0%9F%8E%A8;Scaling+backends+%E2%86%92+Node.js+%2B+MongoDB+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=%5B+BUILD+%5D+Scalable+Next.js+applications;%5B+DESIGN+%5D+Beautiful+UI+with+Tailwind+CSS;%5B+SCALE+%5D+Full-stack+with+Node.js+%2B+MongoDB;%5B+SHIP+%5D+Production-ready+software)](https://git.io/typing-svg)
 
-<!-- ═══════════════════ PROFILE VIEWS + SOCIALS ════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <p>
-  <a href="https://github.com/DeBlackCoder">
-    <img src="https://komarev.com/ghpvc/?username=DeBlackCoder&style=for-the-badge&color=0D1117&labelColor=1F6FEB&label=PROFILE+VIEWS" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeBlackCoder?tab=followers">
-    <img src="https://img.shields.io/github/followers/DeBlackCoder?style=for-the-badge&color=0D1117&labelColor=238636&logo=github&label=FOLLOWERS" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-3FB950?style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=DeBlackCoder&style=for-the-badge&color=060B14&labelColor=1F6FEB&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/DeBlackCoder?style=for-the-badge&color=060B14&labelColor=238636&logo=github&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-3FB950?style=for-the-badge&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-Nigeria-E3B341?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     ⬛  ABOUT ME  — 3-column layout using HTML table trick
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  IDENTITY BLOCK  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## 🧑‍💻 About Me
+## `[ 01 ]` Identity
 
-```ts
+```typescript
 const developer = {
   name     : "Hillary Prosper Wahua",
   alias    : "DeBlackCoder",
-  location : "Port Harcourt, Nigeria 🇳🇬",
+  base     : "Port Harcourt, Nigeria",
   role     : "Frontend Developer",
-  focus    : ["Next.js", "TypeScript", "Full-Stack"],
-  building : "scalable, beautiful web applications",
-  learning : "Advanced backend architecture + AI",
+  stack    : ["Next.js", "TypeScript", "Tailwind"],
+  building : "scalable + beautiful web apps",
+  learning : "Backend arch + AI integration",
   available: true,
   motto    : "Code. Create. Improve.",
-};
-
-export default developer;
+} satisfies Developer;
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-## ⚡ Quick Stats
+## `[ 02 ]` Stats
 
-<br>
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeBlackCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&ring_color=1F6FEB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeBlackCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&ring_color=1F6FEB&count_private=true)
 
 </td>
 </tr>
@@ -69,130 +61,134 @@ export default developer;
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     🛠️  TECH STACK — styled badge grid
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🛠️ Tech Arsenal
+## `[ 03 ]` Tech Arsenal
 
 <div align="center">
 
-**— Frontend —**
+**`// FRONTEND`**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-060B14?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3)
+![React](https://img.shields.io/badge/React-060B14?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-060B14?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-060B14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**— Styling —**
+**`// STYLING`**
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-060B14?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![CSS3](https://img.shields.io/badge/CSS3-060B14?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**— Backend & Database —**
+**`// BACKEND + DATABASE`**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Node.js](https://img.shields.io/badge/Node.js-060B14?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-060B14?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-060B14?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-**— Tools & Platforms —**
+**`// TOOLS + PLATFORMS`**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-060B14?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-060B14?style=for-the-badge&logo=github&logoColor=E6EDF3)
+![VS Code](https://img.shields.io/badge/VS_Code-060B14?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-060B14?style=for-the-badge&logo=vercel&logoColor=E6EDF3)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     📊  SKILL PROFICIENCY — SVG progress bars (no external service needed)
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  PROFICIENCY  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📊 Skill Proficiency
+## `[ 04 ]` Proficiency Matrix
 
 <div align="center">
 
-<!-- SVG Skill Bars — rendered inline on GitHub -->
-
 ```
-Next.js       ████████████████████████░░  90%
-React         ███████████████████████░░░  88%
-TypeScript    ████████████████████░░░░░░  80%
-Tailwind CSS  █████████████████████░░░░░  85%
-Node.js       █████████████████░░░░░░░░░  70%
-MongoDB       ████████████████░░░░░░░░░░  65%
+// SKILL              LEVEL     PROGRESS
+// ─────────────────────────────────────────────────
+   Next.js        [  90%  ]  ||||||||||||||||||||..
+   React          [  88%  ]  |||||||||||||||||||...
+   Tailwind CSS   [  85%  ]  ||||||||||||||||||....
+   TypeScript     [  80%  ]  |||||||||||||||||.....
+   Node.js        [  70%  ]  ||||||||||||||........
+   MongoDB        [  65%  ]  |||||||||||||.........
 ```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     📌  FEATURED PROJECTS — card layout via HTML table
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📌 Featured Projects
+## `[ 05 ]` Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 📝 Notebook Application
-> Real-time note-taking with offline PWA support and multi-device sync.
+```
+PROJECT_01 :: Notebook Application
+───────────────────────────────────
+Real-time note-taking with offline
+PWA support and cross-device sync.
+```
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E6EDF3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
-`Offline-first` `Real-time sync` `PWA`
+`offline-first` `real-time-sync` `PWA`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 💼 Accountant Portfolio
-> Professional portfolio built with Next.js, modern animations, and responsive layout.
+```
+PROJECT_02 :: Accountant Portfolio
+───────────────────────────────────
+Professional portfolio built with
+modern animations + responsive UI.
+```
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E6EDF3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 
-`Animations` `Responsive` `SEO-optimized`
+`animations` `responsive` `SEO-optimized`
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏦 Banking Platform
-> Secure banking interface with transaction management, account features, and auth system.
+```
+PROJECT_03 :: Banking Platform
+───────────────────────────────────
+Secure banking UI with transaction
+management, auth, and accounts.
+```
 
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
 
-`Auth system` `REST API` `Secure`
+`auth-system` `REST-API` `secure`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🌐 Company Website
-> Modern corporate site with service showcase, team section, and contact integration.
+```
+PROJECT_04 :: Company Website
+───────────────────────────────────
+Corporate site with service pages,
+team section, and contact forms.
+```
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E6EDF3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
-`Corporate` `Contact forms` `Performance`
+`corporate` `contact-forms` `performance`
 
 </td>
-
 </tr>
 </table>
 
@@ -200,54 +196,31 @@ MongoDB       ████████████████░░░░░░
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     📈  GITHUB STATS TRIFECTA
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📈 GitHub Analytics
+## `[ 06 ]` GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DeBlackCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&count_private=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeBlackCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DeBlackCoder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeBlackCoder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
 
-<br><br>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=DeBlackCoder&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
-<br><br>
+<br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeBlackCoder&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=3FB950&area=true&hide_border=true&area_color=1F6FEB" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     🎯  CURRENT FOCUS
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🎯 What I'm Working On
-
-<div align="center">
-
-| 🔭 Building | 🌱 Learning | 💡 Exploring |
-|:---:|:---:|:---:|
-| Scalable Next.js apps | Advanced backend architecture | AI-powered web applications |
-| Production-ready APIs | Database optimization | Cloud infrastructure (AWS) |
-| Design systems | Testing strategies | Open source contributions |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     🏆  TROPHIES
-     ════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
+## `[ 07 ]` Trophies
 
 <div align="center">
 
@@ -257,30 +230,49 @@ MongoDB       ████████████████░░░░░░
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     📫  CONNECT
-     ════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  CURRENT FOCUS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📫 Let's Connect
+## `[ 08 ]` Current Focus
+
+<div align="center">
+
+| `SCALING` | `LEARNING` | `EXPLORING` |
+|:---:|:---:|:---:|
+| Scalable Next.js architecture | Advanced backend patterns | AI-powered web apps |
+| Production-ready APIs | Database optimization | Cloud infrastructure |
+| Design systems | Testing strategies | Open source |
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## `[ 09 ]` Connect
 
 <div align="center">
 
 <a href="https://github.com/DeBlackCoder">
-  <img src="https://img.shields.io/badge/GitHub-DeBlackCoder-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" />
+  <img src="https://img.shields.io/badge/%5B_GitHub_%5D-DeBlackCoder-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=1F6FEB" />
 </a>
 &nbsp;
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D93025" />
+  <img src="https://img.shields.io/badge/%5B_Email_%5D-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=A32D2D" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/%5B_LinkedIn_%5D-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0A66C2" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0D1117,100:1F6FEB&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:060B14,50:1F6FEB,100:060B14&section=footer" width="100%"/>
 
-<sub>⚡ <b>"Code. Create. Improve."</b> — Built with passion from Port Harcourt, Nigeria 🇳🇬</sub>
+```
+// ─────────────────────────────────────────────────────────────
+//  [ CODE ]  [ CREATE ]  [ IMPROVE ]
+//  DeBlackCoder  --  Port Harcourt, Nigeria  --  2025
+// ─────────────────────────────────────────────────────────────
+```
 
 </div>
